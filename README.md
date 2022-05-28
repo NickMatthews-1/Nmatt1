@@ -3,7 +3,7 @@
 - 👀 I’m interested in tech and teaching people how to use Linux and software that goes with it!
 - 🌱 I’m currently teaching Linux and being a full time stay at home Dad
 - 📫 How to reach me nick@linuxpanic.com
-
+- Fun fact, you can sponsor me here on GitHub! https://github.com/sponsors/Nmatt1
 <!--
 **Nmatt1/Nmatt1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
